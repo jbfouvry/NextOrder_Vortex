@@ -5,6 +5,9 @@ Jean-Baptiste Fouvry, Pierre-Henri Chavanis
 
 Accepted for publication in Phys. Rev. E
 
+############################################################
+############################################################
+
 This directory contains:
 
 /code_nbody: N-body integrator for point vortices
@@ -14,5 +17,8 @@ This directory contains:
 /code_prediction_1: 1/N kinetic equation
 
 /code_prediction_2: 1/N^2 kinetic equation
+
+############################################################
+############################################################
 
 In each directory, examples of scripts can be found in run/Run.jl
