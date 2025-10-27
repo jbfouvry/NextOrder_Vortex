@@ -9,6 +9,9 @@ Accepted for publication in Phys. Rev. E
 This directory contains
 
 /code: N-body integrator for point vortices
+
 /code_linear: Linear response theory
+
 /code_prediction_1: 1/N kinetic equation
+
 /code_prediction: 1/N^2 kinetic equation
